@@ -1,0 +1,301 @@
+PostID,UserID,Content,Timestamp,Likes,Retweets,Hashtags,SentimentScore
+2001,27,Analytics everywhere!,2024-11-12 01:49:00,144,20,#streaming,-0.45
+2002,97,Analytics everywhere!,2024-10-08 14:21:00,13,25,#cloud,0.76
+2003,11,Loved working on the assignment.,2024-10-11 03:34:00,370,60,#bigdata,0.07
+2004,99,Data is the new oil.,2024-10-26 02:17:00,225,30,#machinelearning,-0.82
+2005,94,Loved working on the assignment.,2024-10-23 21:10:00,67,46,#bigdata,0.9
+2006,18,Loved working on the assignment.,2024-10-30 09:27:00,256,88,"#bigdata,#spark,#analytics",0.27
+2007,23,Loved working on the assignment.,2024-11-13 10:02:00,329,79,#bigdata,0.8
+2008,11,Feeling productive. #cloud,2024-11-17 09:11:00,228,38,"#analytics,#bigdata",-0.34
+2009,41,Streaming is powerful.,2024-10-10 16:20:00,81,6,"#machinelearning,#dataengineering,#analytics",0.5
+2010,43,Data is the new oil.,2024-10-15 22:21:00,178,88,#machinelearning,-0.28
+2011,13,Analytics everywhere!,2024-11-12 13:32:00,265,6,#spark,0.08
+2012,31,Data is the new oil.,2024-11-01 17:54:00,282,96,#spark,0.55
+2013,27,Loved working on the assignment.,2024-10-28 23:16:00,310,27,"#machinelearning,#streaming,#spark",-0.48
+2014,94,Analytics everywhere!,2024-11-17 22:14:00,362,129,"#bigdata,#streaming,#analytics",-0.49
+2015,18,Getting hands-on with big data.,2024-11-10 18:31:00,155,106,#analytics,-0.43
+2016,33,Getting hands-on with big data.,2024-10-19 15:50:00,5,75,"#cloud,#analytics",0.66
+2017,85,Getting hands-on with big data.,2024-11-19 18:40:00,348,41,#machinelearning,-0.36
+2018,97,Just built my first pipeline.,2024-10-20 02:13:00,273,13,"#dataengineering,#analytics,#bigdata",0.49
+2019,37,This tech is awesome!,2024-11-09 07:26:00,140,122,"#bigdata,#machinelearning",-0.06
+2020,88,Data is the new oil.,2024-10-10 15:06:00,163,113,"#streaming,#dataengineering",-0.64
+2021,53,Loved working on the assignment.,2024-10-24 14:16:00,242,41,"#dataengineering,#spark",0.17
+2022,76,Streaming is powerful.,2024-11-24 00:14:00,341,65,#bigdata,0.82
+2023,69,Running Spark jobs at scale.,2024-10-14 13:59:00,320,122,#streaming,-0.54
+2024,95,Analytics everywhere!,2024-10-06 20:55:00,84,58,#streaming,0.38
+2025,4,Data is the new oil.,2024-10-13 23:01:00,18,101,#spark,-0.51
+2026,24,Just built my first pipeline.,2024-11-11 21:43:00,182,0,"#spark,#streaming",0.04
+2027,93,Getting hands-on with big data.,2024-10-27 15:42:00,235,95,#cloud,0.67
+2028,61,Just built my first pipeline.,2024-10-12 13:26:00,306,48,"#machinelearning,#dataengineering",-0.37
+2029,90,Analytics everywhere!,2024-11-04 05:40:00,290,62,#bigdata,0.73
+2030,26,Loved working on the assignment.,2024-10-06 16:29:00,213,14,"#machinelearning,#streaming",0.31
+2031,57,Loved working on the assignment.,2024-10-03 02:43:00,123,22,#machinelearning,-0.54
+2032,11,Feeling productive. #cloud,2024-11-25 00:21:00,103,92,#analytics,-0.13
+2033,7,Running Spark jobs at scale.,2024-10-17 23:56:00,146,53,"#machinelearning,#analytics,#streaming",-0.54
+2034,89,Data is the new oil.,2024-11-02 23:35:00,238,126,"#streaming,#dataengineering,#analytics",0.7
+2035,62,Streaming is powerful.,2024-11-03 20:08:00,141,59,"#spark,#analytics",-0.01
+2036,63,Feeling productive. #cloud,2024-10-02 03:00:00,229,69,"#analytics,#streaming,#dataengineering",0.63
+2037,67,This tech is awesome!,2024-10-18 09:14:00,353,92,"#dataengineering,#streaming",-0.87
+2038,24,Just built my first pipeline.,2024-11-12 19:38:00,193,33,#streaming,-0.8
+2039,7,Running Spark jobs at scale.,2024-10-03 22:21:00,89,68,"#dataengineering,#analytics,#spark",-0.86
+2040,44,This tech is awesome!,2024-10-31 22:16:00,96,90,#bigdata,-0.44
+2041,71,Data is the new oil.,2024-10-20 05:54:00,146,144,"#streaming,#analytics",0.02
+2042,60,Running Spark jobs at scale.,2024-10-06 01:50:00,257,74,#streaming,0.48
+2043,29,This tech is awesome!,2024-10-06 17:55:00,203,100,#cloud,0.29
+2044,71,Data is the new oil.,2024-11-23 08:50:00,281,33,"#bigdata,#machinelearning",-0.5
+2045,28,Getting hands-on with big data.,2024-11-05 19:08:00,292,98,"#bigdata,#spark,#machinelearning",0.24
+2046,16,Feeling productive. #cloud,2024-11-09 19:53:00,217,126,"#spark,#bigdata",-0.34
+2047,6,Just built my first pipeline.,2024-11-06 22:37:00,300,115,"#cloud,#bigdata",0.59
+2048,24,Running Spark jobs at scale.,2024-11-16 18:25:00,400,122,#bigdata,-0.95
+2049,60,This tech is awesome!,2024-11-20 01:34:00,394,76,"#streaming,#cloud",0.61
+2050,63,Getting hands-on with big data.,2024-11-16 22:03:00,318,51,#spark,0.55
+2051,25,This tech is awesome!,2024-10-27 03:30:00,373,133,#machinelearning,-0.37
+2052,82,Data is the new oil.,2024-11-08 06:58:00,316,58,"#machinelearning,#spark,#cloud",0.94
+2053,7,Just built my first pipeline.,2024-11-15 05:06:00,350,74,#streaming,-0.89
+2054,75,Running Spark jobs at scale.,2024-11-20 19:46:00,317,149,"#bigdata,#dataengineering",-0.19
+2055,54,Feeling productive. #cloud,2024-11-20 21:23:00,31,130,"#spark,#streaming,#machinelearning",0.31
+2056,60,Data is the new oil.,2024-11-09 20:50:00,226,85,"#dataengineering,#spark,#cloud",0.77
+2057,63,Feeling productive. #cloud,2024-10-29 07:44:00,279,116,"#cloud,#analytics,#dataengineering",-0.23
+2058,57,Feeling productive. #cloud,2024-10-09 06:03:00,218,120,"#cloud,#bigdata,#spark",0.32
+2059,56,Feeling productive. #cloud,2024-10-15 14:35:00,380,22,"#streaming,#machinelearning,#bigdata",0.6
+2060,49,Just built my first pipeline.,2024-10-27 11:14:00,128,79,"#analytics,#cloud",-0.72
+2061,19,This tech is awesome!,2024-11-15 04:37:00,392,125,"#analytics,#streaming,#bigdata",-0.73
+2062,2,Loved working on the assignment.,2024-11-18 16:27:00,311,139,#spark,0.72
+2063,5,Data is the new oil.,2024-10-09 09:42:00,181,83,"#bigdata,#streaming,#machinelearning",0.71
+2064,45,Just built my first pipeline.,2024-11-01 04:25:00,14,116,"#spark,#bigdata",0.44
+2065,99,Streaming is powerful.,2024-10-07 15:59:00,71,10,"#cloud,#analytics,#dataengineering",-0.07
+2066,59,Loved working on the assignment.,2024-11-03 13:04:00,11,149,#bigdata,0.68
+2067,54,Running Spark jobs at scale.,2024-10-15 04:03:00,58,51,"#machinelearning,#streaming,#cloud",0.46
+2068,88,Running Spark jobs at scale.,2024-10-14 06:04:00,291,108,#analytics,-0.29
+2069,87,Just built my first pipeline.,2024-10-21 10:07:00,183,42,#machinelearning,-0.47
+2070,58,Feeling productive. #cloud,2024-11-06 09:09:00,298,113,#cloud,0.22
+2071,14,Analytics everywhere!,2024-11-23 01:09:00,307,103,#bigdata,0.04
+2072,32,Data is the new oil.,2024-10-17 05:47:00,246,26,"#machinelearning,#analytics,#cloud",-0.98
+2073,22,Data is the new oil.,2024-10-28 03:30:00,117,28,"#analytics,#streaming",0.55
+2074,44,Analytics everywhere!,2024-10-21 00:45:00,349,51,"#dataengineering,#bigdata",0.84
+2075,29,Excited to be learning Spark!,2024-11-23 21:23:00,352,27,"#bigdata,#dataengineering,#streaming",0.96
+2076,8,Getting hands-on with big data.,2024-10-13 04:49:00,318,69,"#machinelearning,#bigdata,#streaming",-0.72
+2077,61,Excited to be learning Spark!,2024-10-12 16:39:00,234,122,"#spark,#dataengineering",-0.92
+2078,66,This tech is awesome!,2024-11-11 01:02:00,245,146,"#spark,#analytics,#dataengineering",0.71
+2079,11,Running Spark jobs at scale.,2024-10-26 11:18:00,65,80,"#bigdata,#streaming,#analytics",0.68
+2080,62,This tech is awesome!,2024-10-01 21:48:00,385,110,#machinelearning,0.12
+2081,69,Just built my first pipeline.,2024-10-28 11:52:00,77,86,"#spark,#dataengineering,#analytics",0.1
+2082,88,Analytics everywhere!,2024-10-22 03:10:00,376,119,"#spark,#machinelearning,#dataengineering",0.39
+2083,69,Data is the new oil.,2024-10-01 06:44:00,373,121,#analytics,-0.48
+2084,85,Loved working on the assignment.,2024-11-01 20:17:00,240,22,"#streaming,#machinelearning,#dataengineering",0.59
+2085,16,Feeling productive. #cloud,2024-10-28 13:20:00,200,7,"#spark,#analytics,#cloud",0.49
+2086,85,Data is the new oil.,2024-11-04 16:13:00,107,131,"#streaming,#cloud",0.82
+2087,47,Loved working on the assignment.,2024-11-01 03:50:00,61,22,"#spark,#bigdata,#machinelearning",0.99
+2088,28,Streaming is powerful.,2024-10-28 02:46:00,181,63,"#dataengineering,#streaming",0.15
+2089,34,Loved working on the assignment.,2024-11-20 01:16:00,135,111,#analytics,-0.03
+2090,73,Excited to be learning Spark!,2024-10-22 22:06:00,114,130,#dataengineering,-0.58
+2091,4,Data is the new oil.,2024-10-30 06:48:00,336,58,"#bigdata,#streaming",-0.7
+2092,69,Excited to be learning Spark!,2024-11-19 21:13:00,298,14,#machinelearning,0.06
+2093,8,Getting hands-on with big data.,2024-11-17 15:35:00,258,69,#machinelearning,0.1
+2094,12,Loved working on the assignment.,2024-11-17 06:42:00,162,55,"#analytics,#bigdata,#spark",-0.22
+2095,10,Data is the new oil.,2024-11-02 01:16:00,399,126,"#streaming,#machinelearning,#cloud",-0.29
+2096,82,Feeling productive. #cloud,2024-10-12 04:11:00,249,9,"#spark,#cloud",0.3
+2097,72,Just built my first pipeline.,2024-10-28 07:42:00,230,63,"#spark,#machinelearning,#bigdata",-0.84
+2098,1,Loved working on the assignment.,2024-11-19 15:32:00,94,34,#streaming,-0.96
+2099,96,Streaming is powerful.,2024-10-28 18:04:00,301,41,"#dataengineering,#analytics",0.88
+2100,82,Excited to be learning Spark!,2024-10-16 17:05:00,388,85,"#machinelearning,#analytics,#streaming",-0.48
+2101,14,Feeling productive. #cloud,2024-11-22 09:27:00,221,70,"#machinelearning,#cloud",0.65
+2102,16,Just built my first pipeline.,2024-10-11 23:08:00,350,70,"#analytics,#machinelearning,#dataengineering",0.32
+2103,28,Analytics everywhere!,2024-11-01 14:07:00,112,44,#dataengineering,0.51
+2104,62,Data is the new oil.,2024-10-19 17:16:00,162,149,#analytics,0.28
+2105,96,Streaming is powerful.,2024-11-19 01:48:00,123,6,#machinelearning,0.96
+2106,79,Loved working on the assignment.,2024-10-07 02:46:00,356,149,#cloud,0.1
+2107,11,Excited to be learning Spark!,2024-10-03 12:36:00,291,87,"#dataengineering,#analytics,#spark",0.79
+2108,95,Just built my first pipeline.,2024-11-22 22:27:00,86,139,#machinelearning,0.2
+2109,54,Running Spark jobs at scale.,2024-10-25 08:54:00,291,144,#machinelearning,0.48
+2110,84,Data is the new oil.,2024-10-11 23:07:00,251,46,"#bigdata,#cloud,#analytics",-0.8
+2111,62,This tech is awesome!,2024-10-22 11:25:00,234,24,"#spark,#analytics,#cloud",-0.04
+2112,51,Feeling productive. #cloud,2024-10-12 01:19:00,303,103,"#bigdata,#spark,#dataengineering",0.49
+2113,44,Just built my first pipeline.,2024-11-24 21:39:00,6,149,"#analytics,#machinelearning,#cloud",0.74
+2114,95,Streaming is powerful.,2024-11-19 12:17:00,55,30,"#spark,#machinelearning",-0.89
+2115,89,Streaming is powerful.,2024-10-17 07:48:00,158,131,#streaming,0.95
+2116,48,Getting hands-on with big data.,2024-10-13 04:08:00,193,33,#streaming,0.45
+2117,89,Loved working on the assignment.,2024-11-21 03:47:00,351,91,#spark,-0.63
+2118,26,Running Spark jobs at scale.,2024-10-27 09:47:00,151,125,"#machinelearning,#dataengineering,#streaming",-0.87
+2119,60,Loved working on the assignment.,2024-11-17 01:23:00,66,73,#cloud,0.65
+2120,6,Running Spark jobs at scale.,2024-11-14 02:34:00,113,28,#streaming,-0.67
+2121,53,Feeling productive. #cloud,2024-10-24 05:15:00,80,81,"#machinelearning,#bigdata",0.07
+2122,64,Analytics everywhere!,2024-10-02 17:01:00,179,58,"#dataengineering,#machinelearning,#bigdata",-0.95
+2123,33,Analytics everywhere!,2024-10-28 06:05:00,171,142,#machinelearning,0.59
+2124,56,Feeling productive. #cloud,2024-11-03 04:35:00,88,75,#cloud,0.01
+2125,65,Analytics everywhere!,2024-10-05 09:36:00,105,95,"#spark,#machinelearning",-0.38
+2126,7,Data is the new oil.,2024-10-10 11:27:00,334,94,"#bigdata,#spark,#cloud",-0.5
+2127,31,Running Spark jobs at scale.,2024-11-14 12:03:00,252,101,"#bigdata,#spark,#dataengineering",-0.89
+2128,51,Streaming is powerful.,2024-11-22 15:57:00,116,103,"#analytics,#streaming,#spark",-0.43
+2129,81,Getting hands-on with big data.,2024-10-09 14:17:00,320,103,"#streaming,#analytics,#dataengineering",0.41
+2130,98,Excited to be learning Spark!,2024-11-23 11:36:00,245,30,"#bigdata,#spark",-0.33
+2131,13,This tech is awesome!,2024-10-30 09:00:00,168,85,"#analytics,#spark",-0.01
+2132,79,Data is the new oil.,2024-10-12 07:50:00,293,142,#bigdata,-0.99
+2133,70,Analytics everywhere!,2024-10-01 11:35:00,67,29,"#bigdata,#streaming,#dataengineering",0.97
+2134,80,Excited to be learning Spark!,2024-11-14 14:43:00,0,30,"#bigdata,#spark,#cloud",0.05
+2135,44,Data is the new oil.,2024-10-24 23:13:00,214,114,"#cloud,#streaming",-0.61
+2136,72,Just built my first pipeline.,2024-11-12 14:52:00,397,118,"#streaming,#cloud,#bigdata",-0.19
+2137,91,Just built my first pipeline.,2024-11-12 23:42:00,124,44,#dataengineering,-0.09
+2138,32,Feeling productive. #cloud,2024-11-13 05:57:00,347,57,"#streaming,#spark",0.91
+2139,90,Running Spark jobs at scale.,2024-10-29 13:56:00,393,145,"#streaming,#spark",-0.99
+2140,39,Running Spark jobs at scale.,2024-11-20 05:50:00,16,134,"#bigdata,#dataengineering",0.4
+2141,10,Feeling productive. #cloud,2024-10-20 10:29:00,262,25,"#bigdata,#dataengineering,#cloud",-0.56
+2142,45,Getting hands-on with big data.,2024-10-17 20:33:00,181,88,"#machinelearning,#analytics",0.8
+2143,7,Getting hands-on with big data.,2024-11-06 10:43:00,104,45,#machinelearning,-0.21
+2144,3,Feeling productive. #cloud,2024-10-06 16:01:00,170,80,"#dataengineering,#streaming",0.42
+2145,97,Just built my first pipeline.,2024-10-25 05:54:00,288,20,"#dataengineering,#machinelearning,#streaming",-0.71
+2146,1,Analytics everywhere!,2024-10-02 04:08:00,174,114,"#cloud,#machinelearning,#dataengineering",0.02
+2147,55,This tech is awesome!,2024-11-11 20:43:00,344,13,"#machinelearning,#dataengineering,#streaming",0.97
+2148,16,This tech is awesome!,2024-11-05 14:51:00,266,82,#analytics,-0.72
+2149,62,Running Spark jobs at scale.,2024-11-25 11:19:00,210,50,#bigdata,-0.74
+2150,99,Analytics everywhere!,2024-10-06 17:13:00,269,7,"#spark,#bigdata,#cloud",-0.44
+2151,45,This tech is awesome!,2024-10-16 04:30:00,13,72,#cloud,-0.14
+2152,20,This tech is awesome!,2024-11-11 03:21:00,75,15,"#bigdata,#analytics,#spark",-0.61
+2153,68,Running Spark jobs at scale.,2024-10-27 04:24:00,220,41,"#spark,#machinelearning",0.39
+2154,28,Excited to be learning Spark!,2024-11-24 06:07:00,83,73,#dataengineering,0.86
+2155,57,This tech is awesome!,2024-10-14 18:26:00,297,129,"#analytics,#streaming",-0.91
+2156,14,This tech is awesome!,2024-10-15 00:04:00,138,53,"#streaming,#spark",-0.87
+2157,55,Just built my first pipeline.,2024-11-23 01:18:00,71,9,"#analytics,#dataengineering",0.91
+2158,61,Feeling productive. #cloud,2024-10-12 21:18:00,217,15,"#analytics,#spark,#bigdata",0.79
+2159,68,This tech is awesome!,2024-10-09 15:53:00,16,26,"#spark,#machinelearning",-0.54
+2160,90,Streaming is powerful.,2024-11-12 06:38:00,312,77,#dataengineering,0.09
+2161,81,This tech is awesome!,2024-10-05 09:59:00,353,136,"#spark,#bigdata,#streaming",-0.17
+2162,61,Streaming is powerful.,2024-10-01 02:54:00,74,94,#cloud,-0.48
+2163,38,Data is the new oil.,2024-10-25 02:58:00,305,52,#machinelearning,-0.14
+2164,63,Streaming is powerful.,2024-10-21 08:33:00,74,40,#dataengineering,-0.59
+2165,1,Analytics everywhere!,2024-10-08 02:03:00,9,95,"#dataengineering,#streaming,#bigdata",0.34
+2166,82,Excited to be learning Spark!,2024-10-26 11:45:00,211,137,"#spark,#cloud",0.64
+2167,72,Data is the new oil.,2024-10-14 08:21:00,243,114,"#dataengineering,#streaming",0.4
+2168,87,Running Spark jobs at scale.,2024-11-16 16:04:00,214,112,"#spark,#machinelearning,#bigdata",0.89
+2169,13,Getting hands-on with big data.,2024-10-27 08:01:00,41,28,#machinelearning,-0.27
+2170,89,Excited to be learning Spark!,2024-11-12 02:05:00,6,6,#streaming,-0.32
+2171,7,Loved working on the assignment.,2024-11-16 20:59:00,375,10,"#spark,#cloud,#dataengineering",-0.62
+2172,4,This tech is awesome!,2024-11-22 21:48:00,63,54,"#cloud,#machinelearning",-0.16
+2173,35,This tech is awesome!,2024-10-19 09:29:00,304,66,#machinelearning,-0.64
+2174,12,Getting hands-on with big data.,2024-11-13 13:23:00,165,122,#spark,-0.74
+2175,27,Excited to be learning Spark!,2024-11-06 23:59:00,338,33,"#streaming,#bigdata",0.17
+2176,75,Data is the new oil.,2024-10-18 23:00:00,146,141,#streaming,-0.29
+2177,46,Analytics everywhere!,2024-10-18 03:47:00,3,140,"#streaming,#spark",0.62
+2178,11,Excited to be learning Spark!,2024-11-19 01:00:00,120,53,"#streaming,#bigdata",0.42
+2179,41,Running Spark jobs at scale.,2024-10-04 04:14:00,120,130,"#cloud,#analytics",0.03
+2180,52,Running Spark jobs at scale.,2024-10-22 15:20:00,393,7,"#analytics,#streaming,#machinelearning",-0.83
+2181,44,Running Spark jobs at scale.,2024-11-03 14:22:00,121,20,#dataengineering,0.89
+2182,40,Getting hands-on with big data.,2024-11-08 06:35:00,260,45,"#bigdata,#analytics,#cloud",-0.59
+2183,26,Excited to be learning Spark!,2024-10-08 09:13:00,210,46,"#spark,#streaming,#analytics",-0.33
+2184,69,Loved working on the assignment.,2024-11-13 05:13:00,49,17,"#analytics,#cloud,#streaming",0.7
+2185,19,Streaming is powerful.,2024-11-11 19:16:00,167,115,"#streaming,#machinelearning",0.27
+2186,59,Just built my first pipeline.,2024-11-12 23:18:00,380,85,#machinelearning,-0.89
+2187,85,Just built my first pipeline.,2024-10-14 08:32:00,44,67,"#dataengineering,#machinelearning",0.94
+2188,46,Excited to be learning Spark!,2024-11-13 08:48:00,198,114,"#spark,#dataengineering,#bigdata",-0.11
+2189,97,Getting hands-on with big data.,2024-11-19 02:13:00,144,92,"#analytics,#bigdata",-0.75
+2190,56,Streaming is powerful.,2024-10-09 16:24:00,312,65,#cloud,0.75
+2191,42,Getting hands-on with big data.,2024-11-07 13:26:00,67,100,"#streaming,#spark,#analytics",0.45
+2192,97,Analytics everywhere!,2024-10-22 02:50:00,78,78,"#spark,#streaming",-0.15
+2193,2,Analytics everywhere!,2024-10-29 05:41:00,162,112,"#bigdata,#spark,#machinelearning",0.92
+2194,37,Streaming is powerful.,2024-11-03 19:16:00,323,89,#analytics,-0.41
+2195,82,Excited to be learning Spark!,2024-11-03 18:33:00,295,46,"#dataengineering,#streaming,#cloud",0.28
+2196,17,Analytics everywhere!,2024-11-20 08:19:00,179,12,"#bigdata,#cloud",0.95
+2197,2,Feeling productive. #cloud,2024-11-03 08:33:00,174,9,"#machinelearning,#analytics",-0.26
+2198,21,Loved working on the assignment.,2024-11-19 06:21:00,329,145,"#streaming,#dataengineering,#analytics",0.42
+2199,100,This tech is awesome!,2024-10-21 20:53:00,339,5,#machinelearning,-0.93
+2200,14,Analytics everywhere!,2024-11-20 08:52:00,377,71,#spark,-0.55
+2201,45,Data is the new oil.,2024-10-08 16:53:00,197,132,"#analytics,#bigdata",-0.43
+2202,30,Just built my first pipeline.,2024-10-06 00:21:00,386,110,"#streaming,#analytics,#dataengineering",0.1
+2203,39,Feeling productive. #cloud,2024-10-26 23:20:00,216,33,#machinelearning,0.98
+2204,35,Loved working on the assignment.,2024-11-01 23:24:00,365,55,"#cloud,#bigdata,#dataengineering",0.13
+2205,90,Excited to be learning Spark!,2024-10-22 18:50:00,311,100,"#streaming,#spark,#machinelearning",0.04
+2206,60,Streaming is powerful.,2024-11-22 19:43:00,89,149,"#machinelearning,#analytics,#dataengineering",0.8
+2207,66,Running Spark jobs at scale.,2024-10-24 23:30:00,389,87,#bigdata,-0.92
+2208,68,Loved working on the assignment.,2024-11-07 15:33:00,383,51,#bigdata,-0.09
+2209,27,This tech is awesome!,2024-10-13 08:40:00,201,137,"#machinelearning,#analytics,#streaming",0.46
+2210,68,Getting hands-on with big data.,2024-11-04 06:37:00,2,52,"#dataengineering,#analytics,#spark",-0.45
+2211,25,Data is the new oil.,2024-11-11 00:09:00,40,121,"#streaming,#analytics,#machinelearning",-0.22
+2212,83,Analytics everywhere!,2024-10-06 16:27:00,338,13,"#analytics,#cloud,#streaming",-0.7
+2213,29,Running Spark jobs at scale.,2024-11-02 06:16:00,19,5,"#cloud,#analytics,#spark",-0.08
+2214,65,Running Spark jobs at scale.,2024-10-05 12:11:00,187,133,#streaming,-0.75
+2215,16,Streaming is powerful.,2024-11-20 22:41:00,202,71,"#streaming,#machinelearning",0.16
+2216,83,Streaming is powerful.,2024-11-09 05:40:00,18,42,"#cloud,#bigdata",0.97
+2217,11,Loved working on the assignment.,2024-10-05 20:17:00,229,73,"#machinelearning,#bigdata",0.83
+2218,81,This tech is awesome!,2024-10-11 07:05:00,245,18,"#streaming,#dataengineering",0.75
+2219,78,Getting hands-on with big data.,2024-11-04 00:12:00,339,76,"#spark,#analytics",-0.16
+2220,60,Just built my first pipeline.,2024-11-13 07:03:00,91,42,"#machinelearning,#streaming,#cloud",0.57
+2221,53,Analytics everywhere!,2024-11-13 04:23:00,292,149,"#cloud,#bigdata,#streaming",0.21
+2222,18,Loved working on the assignment.,2024-11-09 05:42:00,334,32,"#analytics,#cloud,#spark",0.7
+2223,78,Feeling productive. #cloud,2024-10-01 14:32:00,304,3,"#machinelearning,#streaming,#cloud",-0.18
+2224,100,Data is the new oil.,2024-11-25 07:53:00,372,9,"#dataengineering,#cloud,#machinelearning",-0.12
+2225,37,Running Spark jobs at scale.,2024-10-16 00:43:00,155,132,"#machinelearning,#dataengineering",0.2
+2226,35,Getting hands-on with big data.,2024-11-08 02:23:00,243,23,#cloud,-0.48
+2227,32,This tech is awesome!,2024-11-09 02:33:00,342,103,"#dataengineering,#bigdata",-0.12
+2228,65,Just built my first pipeline.,2024-11-02 01:11:00,184,143,#spark,-0.29
+2229,48,Getting hands-on with big data.,2024-10-24 18:44:00,187,24,"#dataengineering,#streaming",-0.06
+2230,47,Just built my first pipeline.,2024-11-10 14:45:00,62,58,#machinelearning,-0.93
+2231,24,This tech is awesome!,2024-10-02 01:27:00,250,69,"#streaming,#dataengineering,#machinelearning",0.07
+2232,27,Analytics everywhere!,2024-11-13 06:19:00,334,116,#streaming,0.8
+2233,43,Feeling productive. #cloud,2024-10-15 07:08:00,95,58,"#machinelearning,#cloud,#streaming",0.95
+2234,74,Running Spark jobs at scale.,2024-11-01 11:12:00,370,112,"#analytics,#cloud,#bigdata",-0.67
+2235,23,Excited to be learning Spark!,2024-10-11 00:16:00,213,65,#dataengineering,-0.24
+2236,37,This tech is awesome!,2024-10-15 06:15:00,206,38,"#cloud,#bigdata",0.6
+2237,74,Loved working on the assignment.,2024-10-29 15:26:00,257,94,#machinelearning,-0.97
+2238,10,Streaming is powerful.,2024-10-21 13:26:00,170,82,"#cloud,#dataengineering,#analytics",0.65
+2239,58,Getting hands-on with big data.,2024-10-04 01:19:00,332,144,"#dataengineering,#cloud",0.59
+2240,68,Just built my first pipeline.,2024-11-22 06:30:00,175,66,#machinelearning,0.82
+2241,63,Analytics everywhere!,2024-10-12 18:47:00,204,126,"#spark,#dataengineering",-0.34
+2242,36,This tech is awesome!,2024-11-12 06:07:00,134,135,#streaming,0.85
+2243,29,Running Spark jobs at scale.,2024-11-08 11:19:00,37,137,"#spark,#dataengineering,#cloud",0.86
+2244,89,Analytics everywhere!,2024-10-05 00:26:00,382,101,#analytics,-0.02
+2245,7,Data is the new oil.,2024-10-27 01:44:00,316,89,#machinelearning,-0.07
+2246,97,Just built my first pipeline.,2024-10-13 13:43:00,107,63,"#dataengineering,#bigdata",-0.01
+2247,78,Data is the new oil.,2024-11-17 16:41:00,182,146,"#bigdata,#machinelearning",-0.48
+2248,23,Just built my first pipeline.,2024-10-01 00:37:00,214,69,#analytics,0.97
+2249,58,Just built my first pipeline.,2024-10-05 23:28:00,376,150,#bigdata,0.75
+2250,91,Data is the new oil.,2024-10-14 18:27:00,338,26,"#machinelearning,#analytics,#bigdata",0.86
+2251,36,Data is the new oil.,2024-10-21 09:12:00,392,17,#cloud,-0.57
+2252,71,Just built my first pipeline.,2024-11-09 18:24:00,107,99,"#streaming,#dataengineering,#analytics",0.63
+2253,45,Streaming is powerful.,2024-10-05 15:40:00,385,81,#machinelearning,0.61
+2254,73,Running Spark jobs at scale.,2024-10-06 22:42:00,39,52,#dataengineering,-0.74
+2255,81,Getting hands-on with big data.,2024-11-06 04:15:00,175,27,"#machinelearning,#streaming",-0.69
+2256,18,Analytics everywhere!,2024-11-13 15:50:00,114,134,#analytics,-0.94
+2257,23,Streaming is powerful.,2024-10-15 13:46:00,49,39,"#machinelearning,#streaming,#spark",-0.21
+2258,9,This tech is awesome!,2024-11-17 19:52:00,14,65,"#analytics,#dataengineering",0.85
+2259,42,Analytics everywhere!,2024-10-04 11:20:00,215,111,#cloud,0.09
+2260,62,Streaming is powerful.,2024-11-16 17:10:00,107,38,#cloud,0.66
+2261,27,Data is the new oil.,2024-10-11 03:02:00,218,78,#dataengineering,-0.92
+2262,41,Loved working on the assignment.,2024-10-12 06:19:00,211,86,#dataengineering,-0.03
+2263,22,Data is the new oil.,2024-10-06 09:02:00,139,51,"#spark,#dataengineering,#streaming",0.91
+2264,31,Just built my first pipeline.,2024-10-04 19:43:00,318,142,#bigdata,-0.95
+2265,18,Getting hands-on with big data.,2024-10-21 03:03:00,2,130,"#streaming,#bigdata",0.42
+2266,60,Running Spark jobs at scale.,2024-10-24 01:40:00,352,15,"#machinelearning,#bigdata",0.15
+2267,90,Data is the new oil.,2024-11-01 03:01:00,230,6,"#spark,#analytics,#bigdata",0.85
+2268,46,Loved working on the assignment.,2024-11-16 15:17:00,85,123,"#bigdata,#machinelearning,#cloud",-0.89
+2269,70,Excited to be learning Spark!,2024-10-04 07:39:00,69,73,"#cloud,#dataengineering",-0.7
+2270,33,Analytics everywhere!,2024-10-05 12:02:00,152,105,"#dataengineering,#streaming",0.84
+2271,21,Running Spark jobs at scale.,2024-11-21 23:13:00,46,11,"#streaming,#dataengineering,#analytics",0.9
+2272,94,Excited to be learning Spark!,2024-10-18 13:16:00,233,0,"#dataengineering,#spark,#analytics",0.08
+2273,75,Feeling productive. #cloud,2024-11-19 05:40:00,352,7,"#cloud,#spark",0.13
+2274,57,Feeling productive. #cloud,2024-11-16 05:33:00,318,92,"#streaming,#machinelearning",0.29
+2275,16,Data is the new oil.,2024-10-11 05:27:00,239,20,"#cloud,#bigdata",-0.29
+2276,36,Data is the new oil.,2024-11-16 23:39:00,309,68,#spark,-0.06
+2277,18,Just built my first pipeline.,2024-11-05 01:53:00,308,128,#streaming,-0.06
+2278,82,Just built my first pipeline.,2024-10-12 03:59:00,35,12,#spark,-0.27
+2279,69,Just built my first pipeline.,2024-10-30 05:23:00,92,5,"#analytics,#spark",-0.71
+2280,22,Loved working on the assignment.,2024-10-06 06:21:00,191,64,#dataengineering,0.41
+2281,10,Data is the new oil.,2024-10-19 19:00:00,177,124,"#cloud,#streaming",-0.27
+2282,63,Analytics everywhere!,2024-10-21 11:27:00,296,126,#streaming,-0.25
+2283,2,Getting hands-on with big data.,2024-11-15 23:18:00,210,135,"#spark,#analytics",-0.53
+2284,73,This tech is awesome!,2024-10-16 18:28:00,301,128,#dataengineering,-0.21
+2285,21,Getting hands-on with big data.,2024-10-06 19:41:00,200,64,"#streaming,#bigdata,#machinelearning",-0.81
+2286,52,This tech is awesome!,2024-10-16 22:47:00,277,100,"#machinelearning,#streaming,#bigdata",0.07
+2287,64,Data is the new oil.,2024-11-18 15:01:00,81,38,#dataengineering,-0.56
+2288,99,This tech is awesome!,2024-11-10 05:24:00,314,104,#machinelearning,0.43
+2289,1,Excited to be learning Spark!,2024-11-15 11:48:00,184,141,#streaming,0.78
+2290,68,Loved working on the assignment.,2024-10-04 21:36:00,224,68,"#streaming,#cloud",0.14
+2291,53,Feeling productive. #cloud,2024-10-31 09:03:00,259,80,"#analytics,#streaming,#dataengineering",0.51
+2292,34,Getting hands-on with big data.,2024-10-25 17:17:00,216,145,"#analytics,#cloud",0.07
+2293,82,Loved working on the assignment.,2024-10-13 10:56:00,175,96,"#streaming,#bigdata",0.15
+2294,79,Data is the new oil.,2024-10-11 22:35:00,181,22,"#dataengineering,#streaming,#machinelearning",-0.72
+2295,54,Loved working on the assignment.,2024-10-21 17:06:00,263,17,#bigdata,-0.44
+2296,99,Getting hands-on with big data.,2024-10-06 04:35:00,328,41,"#analytics,#streaming",-0.16
+2297,39,Getting hands-on with big data.,2024-10-17 18:19:00,142,123,#dataengineering,0.85
+2298,86,Streaming is powerful.,2024-11-03 11:25:00,322,81,"#dataengineering,#cloud",0.77
+2299,56,This tech is awesome!,2024-10-06 13:02:00,137,115,#cloud,0.27
+2300,2,Feeling productive. #cloud,2024-10-29 08:52:00,220,10,"#spark,#machinelearning,#dataengineering",-0.59
